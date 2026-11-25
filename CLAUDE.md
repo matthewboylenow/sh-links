@@ -6,7 +6,7 @@ Saint Helen's link-in-bio page (replaces linktr.ee/sainthelen). Live at links.sa
 `data/links.json`. Nothing else should need to change for a normal update.
 
 - `featured[]`: the "Coming up" list. `{ id, title, url, note?, start?, end? }`. Keep it basic: the event name as the title, and the note is just the facts (day, date, time, place, deadline). No kicker lines, taglines or copywriting. Do not use the `label` field (Matthew, Nov 25, 2026).
-- `posts[]`: photo grid that mirrors Instagram posts. `{ id, title, url, image, alt?, postedAt, bufferId?, start?, end? }`. Put a 480x600 JPG in `public/posts/YYYY-MM-DD-slug.jpg` (resize the 1080x1350 post image, quality ~78) and use `/posts/...` as `image`. Newest first, 12 max.
+- `posts[]`: photo grid that mirrors Instagram posts. `{ id, title, url, image, alt?, postedAt, bufferId?, start?, end? }`. Put a 480x600 JPG in `public/posts/YYYY-MM-DD-slug.jpg` (resize the 1080x1350 post image, quality ~78) and use `/posts/...` as `image`. Newest first, 12 max. Only add a post when the post itself sends people to one specific page, and link to exactly that page. A post with no page of its own (a feast day, a thank-you, a reminder) stays out of the grid.
 - `sections[]`: evergreen groups of links.
 
 ## Dates do the cleanup

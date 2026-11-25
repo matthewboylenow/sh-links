@@ -57,26 +57,6 @@
   ],
   "posts": [
     {
-      "id": "post-2026-11-25-thanksgiving",
-      "title": "Thanksgiving morning Mass and Advent wreath kits",
-      "image": "/posts/2026-11-25-thanksgiving-mass.jpg",
-      "alt": "A place card on a candlelit Thanksgiving table reading Thanksgiving morning, 9:00AM, Thursday, November 26.",
-      "url": "https://my.sainthelen.org/OnlineReg/3289",
-      "postedAt": "2026-11-25T11:09:00-05:00",
-      "bufferId": "6b07082d7aa90f117d408f00",
-      "end": "2026-11-27T00:00:00-05:00"
-    },
-    {
-      "id": "post-2026-11-22-christ-the-king",
-      "title": "Christ the King and the All In Report",
-      "image": "/posts/2026-11-22-christ-the-king.jpg",
-      "alt": "A crescent Earth rising from behind the Moon, with the words King of the Universe.",
-      "url": "https://sainthelen.org/allin/",
-      "postedAt": "2026-11-22T11:07:00-05:00",
-      "bufferId": "6b03134ac72676f5e9404d9f",
-      "end": "2027-01-04T00:00:00-05:00"
-    },
-    {
       "id": "post-2026-11-21-all-in",
       "title": "The 2025-26 All In Report",
       "image": "/posts/2026-11-21-all-in-weekend.jpg",
