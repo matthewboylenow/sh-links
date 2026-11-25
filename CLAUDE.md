@@ -5,7 +5,7 @@ Saint Helen's link-in-bio page (replaces linktr.ee/sainthelen). Live at links.sa
 ## Content lives in one file
 `data/links.json`. Nothing else should need to change for a normal update.
 
-- `featured[]`: the "Coming up" list. `{ id, title, url, label?, note?, start?, end? }`. `label` is the small line above the title (a date, or an action like "Register by Monday, November 30").
+- `featured[]`: the "Coming up" list. `{ id, title, url, note?, start?, end? }`. Keep it basic: the event name as the title, and the note is just the facts (day, date, time, place, deadline). No kicker lines, taglines or copywriting. Do not use the `label` field (Matthew, Nov 25, 2026).
 - `posts[]`: photo grid that mirrors Instagram posts. `{ id, title, url, image, alt?, postedAt, bufferId?, start?, end? }`. Put a 480x600 JPG in `public/posts/YYYY-MM-DD-slug.jpg` (resize the 1080x1350 post image, quality ~78) and use `/posts/...` as `image`. Newest first, 12 max.
 - `sections[]`: evergreen groups of links.
 
