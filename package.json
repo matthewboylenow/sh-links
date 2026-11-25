@@ -1,0 +1,27 @@
+{
+  "name": "sh-links",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@fontsource/libre-baskerville": "5.3.0",
+    "@fontsource/libre-franklin": "5.3.0",
+    "@vercel/analytics": "2.0.1",
+    "next": "15.5.29",
+    "react": "19.3.1",
+    "react-dom": "19.3.1"
+  },
+  "devDependencies": {
+    "@types/node": "26.6.10",
+    "@types/react": "19.3.3",
+    "typescript": "5.9.3"
+  },
+  "private": true
+}

@@ -1,0 +1,148 @@
+{
+  "meta": {
+    "updatedAt": "2026-11-25T12:00:00-05:00",
+    "note": "Nov 25, 2026: Advent launch. Sources: Nov 24 email blast and 11/29 bulletin run, parish events calendar, Instagram posts via Buffer."
+  },
+  "featured": [
+    {
+      "id": "advent-wreath-kits",
+      "label": "Reserve by tonight",
+      "title": "Advent Wreath Kits",
+      "note": "Online reservations close tonight. Pickup is Sunday from 9:00am to noon in the gym.",
+      "url": "https://my.sainthelen.org/OnlineReg/3289",
+      "end": "2026-11-26T00:00:00-05:00"
+    },
+    {
+      "id": "advent-christmas",
+      "label": "Advent and Christmas",
+      "title": "The season at Saint Helen",
+      "note": "Advent begins this Sunday. Here is everything happening between now and Christmas.",
+      "url": "https://sainthelen.org/advent/",
+      "end": "2027-01-11T00:00:00-05:00"
+    },
+    {
+      "id": "pray25",
+      "label": "Starts Monday, November 30",
+      "title": "Pray25 on Hallow",
+      "note": "Pray through Advent with the parish on the Hallow app.",
+      "url": "https://hallow.app.link/pray25",
+      "end": "2026-12-25T00:00:00-05:00"
+    },
+    {
+      "id": "breakfast-with-santa",
+      "label": "Register by Monday, November 30",
+      "title": "Breakfast With Santa",
+      "note": "Saturday, December 5, 8:30am seating in the gym.",
+      "url": "https://my.sainthelen.org/OnlineReg/3145",
+      "end": "2026-12-01T00:00:00-05:00"
+    },
+    {
+      "id": "christmas-concert",
+      "label": "Friday, December 4, 7:00pm",
+      "title": "Christmas Concert",
+      "note": "In the church.",
+      "url": "https://sainthelen.org/event/christmas-concert-2/",
+      "end": "2026-12-04T19:00:00-05:00"
+    },
+    {
+      "id": "birthday-party-for-jesus",
+      "label": "Friday, December 11, 5:30pm",
+      "title": "Birthday Party for Jesus",
+      "note": "Hosted by CFC Family Ministry in the gym.",
+      "url": "https://sainthelen.org/ministries/catholic-families-connect/",
+      "start": "2026-11-29T00:00:00-05:00",
+      "end": "2026-12-11T17:30:00-05:00"
+    },
+    {
+      "id": "ageless-christmas",
+      "label": "Thursday, December 17",
+      "title": "Ageless Christmas Celebration",
+      "url": "https://sainthelen.org/ministries/ageless/",
+      "start": "2026-12-05T00:00:00-05:00",
+      "end": "2026-12-17T09:00:00-05:00"
+    }
+  ],
+  "posts": [
+    {
+      "id": "post-2026-11-25-thanksgiving",
+      "title": "Thanksgiving morning Mass and Advent wreath kits",
+      "image": "/posts/2026-11-25-thanksgiving-mass.jpg",
+      "alt": "A place card on a candlelit Thanksgiving table reading Thanksgiving morning, 9:00AM, Thursday, November 26.",
+      "url": "https://my.sainthelen.org/OnlineReg/3289",
+      "postedAt": "2026-11-25T11:09:00-05:00",
+      "bufferId": "6b07082d7aa90f117d408f00",
+      "end": "2026-11-27T00:00:00-05:00"
+    },
+    {
+      "id": "post-2026-11-22-christ-the-king",
+      "title": "Christ the King and the All In Report",
+      "image": "/posts/2026-11-22-christ-the-king.jpg",
+      "alt": "A crescent Earth rising from behind the Moon, with the words King of the Universe.",
+      "url": "https://sainthelen.org/allin/",
+      "postedAt": "2026-11-22T11:07:00-05:00",
+      "bufferId": "6b03134ac72676f5e9404d9f",
+      "end": "2027-01-04T00:00:00-05:00"
+    },
+    {
+      "id": "post-2026-11-21-all-in",
+      "title": "The 2025-26 All In Report",
+      "image": "/posts/2026-11-21-all-in-weekend.jpg",
+      "alt": "Parishioners being greeted at the church doors, with the words Are you All In?",
+      "url": "https://sainthelen.org/allin/",
+      "postedAt": "2026-11-21T17:14:00-05:00",
+      "bufferId": "6b0217aac72676f5e9e52947",
+      "end": "2027-01-04T00:00:00-05:00"
+    },
+    {
+      "id": "post-2026-11-10-adoration",
+      "title": "Adoration in the chapel",
+      "image": "/posts/2026-11-10-adoration.jpg",
+      "alt": "The Saint Helen chapel altar with a gold monstrance and lit candles.",
+      "url": "https://sainthelen.org/adoration/",
+      "postedAt": "2026-11-10T13:10:00-05:00",
+      "bufferId": "6af35e0a94964d984f0a93e0",
+      "end": "2026-12-22T00:00:00-05:00"
+    }
+  ],
+  "sections": [
+    {
+      "id": "start",
+      "title": "Start here",
+      "links": [
+        { "id": "livestream", "title": "Watch our livestream", "url": "https://sainthelen.org/stream/" },
+        { "id": "im-new", "title": "New? Start here", "url": "https://sainthelen.org/im-new/" },
+        { "id": "bulletin", "title": "This week's bulletin", "url": "https://sainthelen.org/bulletin/" },
+        { "id": "events", "title": "Events calendar", "url": "https://sainthelen.org/events/" },
+        { "id": "give", "title": "Give online", "url": "https://sainthelen.org/give/" },
+        { "id": "website", "title": "Our website", "url": "https://sainthelen.org/" }
+      ]
+    },
+    {
+      "id": "parish-life",
+      "title": "Parish life",
+      "links": [
+        { "id": "allin", "title": "Read the 2025-26 All In Report", "url": "https://sainthelen.org/allin/" },
+        { "id": "stewardship-spotlight", "title": "Stewardship Spotlight", "url": "https://sainthelen.org/stewardship-spotlight/" },
+        { "id": "lifelines", "title": "LifeLines small groups", "url": "https://lifelines.sainthelen.org/" },
+        { "id": "become-catholic", "title": "Become Catholic", "url": "https://sainthelen.org/become-catholic/" }
+      ]
+    },
+    {
+      "id": "post-game",
+      "title": "The Post-Game Podcast",
+      "links": [
+        { "id": "postgame-spotify", "title": "Listen on Spotify", "url": "https://open.spotify.com/show/7ghkCXdCXqr4x2x3MUQNz7" },
+        { "id": "postgame-web", "title": "Listen on the web", "url": "https://subsplash.com/u/sainthelen/media/l/6zvh53q-the-post-game" }
+      ]
+    },
+    {
+      "id": "families",
+      "title": "Families and young people",
+      "links": [
+        { "id": "kids-corner", "title": "Kids Corner", "url": "https://sainthelen.org/kids-corner/" },
+        { "id": "cfc", "title": "CFC Family Ministry", "url": "https://sainthelen.org/ministries/catholic-families-connect/" },
+        { "id": "youth", "title": "High School Ministry", "url": "https://sainthelen.org/youth-ministry/" }
+      ]
+    }
+  ]
+}
